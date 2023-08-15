@@ -12,7 +12,8 @@ https://www.youtube.com/watch?v=j5O49p7CL1o&list=PLQt_pzi-LLfpcRFhWMywTePfZ2aPap
 https://www.youtube.com/watch?v=j5O49p7CL1o&list=PLQt_pzi-LLfpcRFhWMywTePfZ2aPapvyl&index=17
 
 ## Sample
-![sample1]{/assets/sample1.png}
+<!--![sample1](/assets/sample1.png) {: width="50%" height="50%"}-->
+<img src="./assets/sample1.png" width="400">
 
 
 ## Image Source
