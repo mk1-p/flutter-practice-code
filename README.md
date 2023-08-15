@@ -7,11 +7,9 @@ Based on Flutter Lectures I studied on the coding chef YouTube channel.
 
 https://www.youtube.com/@codingchef
 
-## Getting Started
-Branched by practice code.
+## This Ref Lecture Link
+https://www.youtube.com/watch?v=7E8l9ggxz-Q&list=PLQt_pzi-LLfpcRFhWMywTePfZ2aPapvyl&index=19
 
-#### mild1/11 <br>
-* Character Card
-
-#### mild1/14 <br>
-* Appbar Menu Icon
+## Sample
+<!--![sample1](/assets/sample1.png) {: width="50%" height="50%"}-->
+<img src="./assets/sample1.png" width="400">
