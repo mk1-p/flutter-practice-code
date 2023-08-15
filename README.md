@@ -7,9 +7,5 @@ Based on Flutter Lectures I studied on the coding chef YouTube channel.
 
 https://www.youtube.com/@codingchef
 
-## Getting Started
-Branched by practice code.
-
-#### mild1/11 <br>
-* Character Card
-
+## This Ref Lecture Link
+https://www.youtube.com/watch?v=ze0t5gWKBvE&list=PLQt_pzi-LLfpcRFhWMywTePfZ2aPapvyl&index=15
