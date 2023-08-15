@@ -11,5 +11,4 @@ https://www.youtube.com/@codingchef
 https://www.youtube.com/watch?v=7E8l9ggxz-Q&list=PLQt_pzi-LLfpcRFhWMywTePfZ2aPapvyl&index=19
 
 ## Sample
-<!--![sample1](/assets/sample1.png) {: width="50%" height="50%"}-->
 <img src="./assets/sample1.png" width="400">
