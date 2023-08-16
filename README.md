@@ -7,17 +7,11 @@ Based on Flutter Lectures I studied on the coding chef YouTube channel.
 
 https://www.youtube.com/@codingchef
 
-## Getting Started
-Branched by practice code.
+## This Ref Lecture Link
+https://www.youtube.com/watch?v=7E8l9ggxz-Q&list=PLQt_pzi-LLfpcRFhWMywTePfZ2aPapvyl&index=20
 
-#### mild1/11 <br>
-* Character Card
-
-#### mild1/14 <br>
-* Appbar Menu Icon
-
-#### mild1/15 <br>
-* Drawer Menu
-
-#### mild1/18 <br>
-* Snack Bar With Builder
+## Sample
+* SnackBar without builder (main_snack.dart)
+<img src="./assets/sample1.png" width="400">
+* Toast Message (main.dart)
+<img src="./assets/sample2.png" width="400">
