@@ -21,3 +21,10 @@ Branched by practice code.
 
 #### mild1/18 <br>
 * Snack Bar With Builder
+
+#### mild1/19 <br>
+* Snack Bar Without Builder
+* Toast Message
+
+#### mild1/21 <br>
+* Row & Column
