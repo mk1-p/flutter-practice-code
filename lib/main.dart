@@ -1,4 +1,5 @@
 import 'package:flutter/material.dart';
+import 'package:fluttertoast/fluttertoast.dart';
 
 void main() {
   runApp(const MyApp());
@@ -11,7 +12,6 @@ class MyApp extends StatelessWidget {
   Widget build(BuildContext context) {
     return MaterialApp(
       title: 'Snack Bar Without Builder',
-      theme: ThemeData(primarySwatch: Colors.red),
       home: MyPage(),
     );
   }
@@ -24,37 +24,29 @@ class MyPage extends StatelessWidget {
   Widget build(BuildContext context) {
     return Scaffold(
       appBar: AppBar(
-        title: Text('Snack Bar'),
+        title: Text('Toast message'),
         centerTitle: true,
       ),
-      body: MySnackBar(),
+      body: Center(
+        child: ElevatedButton(
+          onPressed: () { flutterToast(); },
+          child: Text('Toast'),
+          style: ElevatedButton.styleFrom(
+            backgroundColor: Colors.blue
+          ),
+        ),
+      ),
     );
   }
 }
 
-class MySnackBar extends StatelessWidget {
-  const MySnackBar({super.key});
-
-  @override
-  Widget build(BuildContext context) {
-    return Center(
-      child: ElevatedButton(
-        onPressed: () {
-          ScaffoldMessenger.of(context).showSnackBar(
-            SnackBar(
-              content: Text('Hellow!',
-                textAlign: TextAlign.center,
-                style: TextStyle(
-                  color: Colors.white
-                ),
-              ),
-              backgroundColor: Colors.teal,
-              duration: Duration(microseconds: 1000),
-            ),
-          );
-        },
-        child: Text('Show me'),
-      ),
-    );
-  }
+void flutterToast() {
+  print('Toast BTN Clicked!');
+  Fluttertoast.showToast(msg: 'Flutter',
+    gravity:ToastGravity.BOTTOM,
+    backgroundColor: Colors.redAccent,
+    fontSize: 20.0,
+    textColor: Colors.white,
+    toastLength: Toast.LENGTH_SHORT
+  );
 }
