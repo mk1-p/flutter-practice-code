@@ -12,6 +12,6 @@ https://www.youtube.com/watch?v=BWG9XS5ecig&list=PLQt_pzi-LLfpcRFhWMywTePfZ2aPap
 
 ## Sample
 * FirstPage (Stack 1)
-  <img src="./assets/sample1.png" width="400">
+<img src="./assets/sample1.png" width="400">
 * SecondPage (Stack 2)
-  <img src="./assets/sample2.png" width="400">
+<img src="./assets/sample2.png" width="400">
