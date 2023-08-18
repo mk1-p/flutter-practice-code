@@ -7,27 +7,11 @@ Based on Flutter Lectures I studied on the coding chef YouTube channel.
 
 https://www.youtube.com/@codingchef
 
-## Getting Started
-Branched by practice code.
+## This Ref Lecture Link
+https://www.youtube.com/watch?v=rX2RZr6y8yM&list=PLQt_pzi-LLfpcRFhWMywTePfZ2aPapvyl&index=25
 
-#### mild1/11 <br>
-* Character Card
-
-#### mild1/14 <br>
-* Appbar Menu Icon
-
-#### mild1/15 <br>
-* Drawer Menu
-
-#### mild1/18 <br>
-* Snack Bar With Builder
-
-#### mild1/19 <br>
-* Snack Bar Without Builder
-* Toast Message
-
-#### mild1/21 <br>
-* Row & Column
-
-#### mild1/22 <br>
-* Navigator
+## Sample
+* FirstPage initialRoute
+<img src="./assets/sample1.png" width="400">
+* SecondPage routes<String WidgetBuilder>
+<img src="./assets/sample2.png" width="400">
