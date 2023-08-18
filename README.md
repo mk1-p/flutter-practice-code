@@ -31,3 +31,6 @@ Branched by practice code.
 
 #### mild1/22 <br>
 * Navigator
+
+#### mild1/23 <br>
+* Navigator and PushNamed
