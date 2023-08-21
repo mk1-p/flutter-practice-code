@@ -34,3 +34,6 @@ Branched by practice code.
 
 #### mild1/23 <br>
 * Navigator and PushNamed
+
+#### mild1/26 <br>
+* Flutter2.0 SnackBar And ScaffoldMessenger
