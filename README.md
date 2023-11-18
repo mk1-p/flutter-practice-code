@@ -7,36 +7,8 @@ Based on Flutter Lectures I studied on the coding chef YouTube channel.
 
 https://www.youtube.com/@codingchef
 
-## Getting Started
-Branched by practice code.
 
-#### mild1/11 <br>
-* Character Card
 
-#### mild1/14 <br>
-* Appbar Menu Icon
 
-#### mild1/15 <br>
-* Drawer Menu
 
-#### mild1/18 <br>
-* Snack Bar With Builder
-
-#### mild1/19 <br>
-* Snack Bar Without Builder
-* Toast Message
-
-#### mild1/21 <br>
-* Row & Column
-
-#### mild1/22 <br>
-* Navigator
-
-#### mild1/23 <br>
-* Navigator and PushNamed
-
-#### mild1/26 <br>
-* Flutter2.0 SnackBar And ScaffoldMessenger
-
-#### mild1/27 <br>
-* Flutter2.0 Buttons
+<a href="https://www.freepik.com/free-vector/mobile-app-concept_4185663.htm#query=App%20Page&position=3&from_view=search&track=ais&uuid=d966a569-0fcb-4f7d-9cae-30f41fcea41a">Image by pikisuperstar</a> on Freepik
