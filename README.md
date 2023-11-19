@@ -10,7 +10,9 @@ https://www.youtube.com/@codingchef
 ## Getting Started
 Branched by practice code.
 
-### 순한맛 시즌1
+<br>
+
+### > 순한맛 시즌1
 #### mild1/11 <br>
 * Character Card
 
@@ -44,7 +46,7 @@ Branched by practice code.
 
 <br>
 
-### 순한맛 시즌2
+### > 순한맛 시즌2
 #### mild2/01 <br>
 * Onboarding Screen
 
