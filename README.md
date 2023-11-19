@@ -12,8 +12,8 @@ https://www.youtube.com/watch?v=FAi7mTyKW60&list=PLQt_pzi-LLfo1sKDaFN1SOuDVP85Ow
 
 ## Sample
 * MainPage
-  <img src="./assets/sample0.png" width="400">
+  <img src="./image/sample0.png" width="400">
 * Onboarding FirstPage
-  <img src="./assets/sample1.png" width="400">
+  <img src="./image/sample1.png" width="400">
 * Onboarding LastPage
-  <img src="./assets/sample2.png" width="400">
+  <img src="./image/sample2.png" width="400">
