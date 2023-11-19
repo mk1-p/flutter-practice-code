@@ -7,8 +7,13 @@ Based on Flutter Lectures I studied on the coding chef YouTube channel.
 
 https://www.youtube.com/@codingchef
 
+## This Ref Lecture Link
+https://www.youtube.com/watch?v=FAi7mTyKW60&list=PLQt_pzi-LLfo1sKDaFN1SOuDVP85OwK4M&index=1
 
-
-
-
-<a href="https://www.freepik.com/free-vector/mobile-app-concept_4185663.htm#query=App%20Page&position=3&from_view=search&track=ais&uuid=d966a569-0fcb-4f7d-9cae-30f41fcea41a">Image by pikisuperstar</a> on Freepik
+## Sample
+* MainPage
+  <img src="./assets/sample0.png" width="400">
+* Onboarding FirstPage
+  <img src="./assets/sample1.png" width="400">
+* Onboarding LastPage
+  <img src="./assets/sample2.png" width="400">
