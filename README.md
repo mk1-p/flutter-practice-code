@@ -11,9 +11,9 @@ https://www.youtube.com/@codingchef
 https://www.youtube.com/watch?v=FAi7mTyKW60&list=PLQt_pzi-LLfo1sKDaFN1SOuDVP85OwK4M&index=1
 
 ## Sample
-* MainPage
+* MainPage <br>
   <img src="./image/sample0.png" width="400">
-* Onboarding FirstPage
+* Onboarding FirstPage <br>
   <img src="./image/sample1.png" width="400">
-* Onboarding LastPage
+* Onboarding LastPage <br>
   <img src="./image/sample2.png" width="400">
