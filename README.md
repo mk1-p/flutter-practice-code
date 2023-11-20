@@ -55,3 +55,6 @@ Branched by practice code.
 
 #### mild2/03 <br>
 * ListView - DetailPage, LikeButton
+
+#### mild2/04 <br>
+* Responsive Layout
