@@ -7,48 +7,17 @@ Based on Flutter Lectures I studied on the coding chef YouTube channel.
 
 https://www.youtube.com/@codingchef
 
-## Getting Started
-Branched by practice code.
+## This Ref Lecture Link
+https://www.youtube.com/watch?v=uiqCvF5cd_g&list=PLQt_pzi-LLfo1sKDaFN1SOuDVP85OwK4M&index=3
 
-<br>
+## Source
+* image : https://www.flaticon.com/
+* LikeButton : https://pub.dev/packages/like_button
 
-### > 순한맛 시즌1
-#### mild1/11 <br>
-* Character Card
-
-#### mild1/14 <br>
-* Appbar Menu Icon
-
-#### mild1/15 <br>
-* Drawer Menu
-
-#### mild1/18 <br>
-* Snack Bar With Builder
-
-#### mild1/19 <br>
-* Snack Bar Without Builder
-* Toast Message
-
-#### mild1/21 <br>
-* Row & Column
-
-#### mild1/22 <br>
-* Navigator
-
-#### mild1/23 <br>
-* Navigator and PushNamed
-
-#### mild1/26 <br>
-* Flutter2.0 SnackBar And ScaffoldMessenger
-
-#### mild1/27 <br>
-* Flutter2.0 Buttons
-
-<br>
-
-### > 순한맛 시즌2
-#### mild2/01 <br>
-* Onboarding Screen
-
-#### mild2/02 <br>
-* ListView
+## Sample
+* ListView MainPage <br>
+  <img src="./image/sample1.png" width="400">
+* DetailPage UnLike <br>
+  <img src="./image/sample2.png" width="400">
+* DetailPage Like <br>
+  <img src="./image/sample3.png" width="400">
