@@ -52,3 +52,6 @@ Branched by practice code.
 
 #### mild2/02 <br>
 * ListView
+
+#### mild2/03 <br>
+* ListView - DetailPage, LikeButton
